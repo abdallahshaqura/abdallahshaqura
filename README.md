@@ -16,6 +16,6 @@ App Exploration: Exploring how mobile applications work and how to create them.
 💡 “Every expert was once a beginner.” Thanks for visiting my coding journey!
 ### 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shaqura.a)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/shaqouraaa)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abdallahshaqura2@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=plastic&logo=Instagram&logoColor=white)](https://www.instagram.com/shaqura.a)
+[![Twitter/X](https://img.shields.io/badge/X-%23000000?style=plastic&logo=X&logoColor=white)](https://x.com/shaqouraaa)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=plastic&logo=gmail&logoColor=white)](abdallahshaqura2@gmail.com)
