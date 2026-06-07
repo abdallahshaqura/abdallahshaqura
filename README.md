@@ -1,3 +1,5 @@
+# ✨ About Me:
+
 I am a passionate (Self-Taught Learner) who recently started an exciting journey into the world of programming. I am currently learning how to write code, understand how software works, and discover how to build websites and mobile applications from scratch.
 
 I love the challenge of learning something new every day, solving logic problems, and turning my ideas into real digital projects. 
